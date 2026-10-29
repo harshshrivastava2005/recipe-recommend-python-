@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Large raw food.com datasets (not tracked in Git)
+recipes/RAW_interactions.csv
+recipes/RAW_recipes.csv
+recipes/PP_recipes.csv
